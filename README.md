@@ -6,8 +6,7 @@
 
    Awesome features:
    3% fee auto add to the liquidity pool, reaching a new floor on every TX
-   3% fee auto distribute to all holders on every TX (HOLD $SIMPLE = $)
-   45% burn to the black hole, with such big black hole and 3% fee, the strong holder will get a valuable reward
+   3% fee auto distribute to all holders on every TX (HOLD $SIMPLE = $) 
  
    I will renounce the ownership to burn addresses to transfer $SIMPLE to the community, it's 100% safe, Unruggable. 
 
